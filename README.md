@@ -62,7 +62,7 @@ newElement.appendChild(newElementContent);
 ```
 
 ----
-----
+
 
 <span style="color:#020c16 ; font-size:15px ; font-family:cairo ;">
 
@@ -90,7 +90,7 @@ newElement.appendChild(newElementContent);
 
 
 ----
-----
+
 <span style="color:#020c16 ; font-size:15px ; font-family:cairo ;">
 
 * ## What is a JavaScript Event? What does event.preventDefault() do and why might you use it?
@@ -144,7 +144,7 @@ var x = event.cancelable;
 ```
 
 ----
-----
+
 
 
 <span style="color:#020c16 ; font-size:15px ; font-family:cairo ; ">
@@ -188,7 +188,7 @@ Node.length;
 
 
 ----
-----
+
 
 <span style="color:#020c16 ; font-size:15px ; font-family:cairo ; ">
 
